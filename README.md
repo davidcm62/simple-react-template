@@ -2,7 +2,7 @@
 
 ## Get started
 
-1. Clone this repository with `git clone `
+1. Clone this repository with `git clone https://github.com/davidcm62/simple-react-template.git`
 2. Move to the project folder
 3. Run `npm run setup`
 4. Run `npm start`
